@@ -20,6 +20,8 @@
         <item name="colorOnError">@color/color_on_error</item>
 
         <item name="shapeAppearanceSmallComponent">@style/shapeAppearance.MyTheme.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/shapeAppearance.MyTheme.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/shapeAppearance.MyTheme.LargeComponent</item>
 
     </style>
 
